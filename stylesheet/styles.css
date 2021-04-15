@@ -1,0 +1,57 @@
+*{
+	box-sizing: border-box;
+	overflow-y: hidden ;
+}
+
+body {
+	font-size: 60%;
+}
+
+.navbarbg{
+	background-color: rgb(90, 252, 184);
+	font-weight: 600;
+	font-size: 2rem;
+	padding: .6rem;
+}
+
+section {
+	width: 100%;
+}
+
+.section1 {
+	background-color: bisque;
+	height: 100vh;
+	padding-top: 2rem;
+	padding-left: 2rem;
+	padding-right: 2rem;
+}
+
+.section1 button {
+	margin: .4rem 2rem;
+	width: 50%;
+	border-radius: 5;
+}
+
+.section2 {
+	background-color: rgb(153, 114, 66);
+	height: 100vh;
+	display: flex;
+	padding: 2rem 2rem;
+}
+
+.hide {
+  display: none;
+}
+
+/* footer {
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	left: 50%;
+	transform: translateX(-50%);
+}
+footer .copyright {
+	text-align: center;
+	font-weight: 600;
+	font-size: .8rem;
+} */
