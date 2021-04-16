@@ -19,7 +19,7 @@ section {
 }
 
 .section1 {
-	background-color: bisque;
+	background-color: #f7e7e7;
 	height: 100vh;
 	padding-top: 2rem;
 	padding-left: 2rem;
@@ -33,10 +33,10 @@ section {
 }
 
 .section2 {
-	background-color: rgb(153, 114, 66);
+	background-color: #F5EDED;
 	height: 100vh;
 	display: flex;
-	padding: 2rem 2rem;
+	padding: 2rem 4rem;
 }
 
 .hide {
